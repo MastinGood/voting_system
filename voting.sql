@@ -119,6 +119,7 @@ CREATE TABLE `voters` (
   `name` varchar(60) NOT NULL,
   `course` varchar(60) NOT NULL,
   `year` varchar(2) NOT NULL,
+  `conformation_code` varchar(20) NOT NULL,
   `stud_id` varchar(30) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
