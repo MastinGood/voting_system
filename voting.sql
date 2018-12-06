@@ -127,12 +127,6 @@ CREATE TABLE `voters` (
 -- Dumping data for table `voters`
 --
 
-INSERT INTO `voters` (`id`, `name`, `course`, `year`, `stud_id`) VALUES
-(5, 'Lyra Tabar', 'BSIT', 'II', '1001'),
-(6, 'Sachi Arco', 'BSA', 'II', '1002'),
-(7, 'Jimbee Pisot', 'BSIT', 'IV', '1003'),
-(8, 'Clint James Ebrado', 'BSIT', 'I', '1004');
-
 -- --------------------------------------------------------
 
 --
